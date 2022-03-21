@@ -1897,13 +1897,13 @@ annotations:
     reference: ''
     span:
       start: 366512
-      end: 367915
+      end: 367913
     note_ref: 0ffbb94907df49f8b539053af6854f8f
   04ce5469e8484e7ca69944f89f41d654:
     imgnum: 298
     reference: ''
     span:
-      start: 367917
+      start: 367915
       end: 369215
     note_ref: 0ffbb94907df49f8b539053af6854f8f
   7b1cb34ba1ec443c83764bfcc563cc97:
