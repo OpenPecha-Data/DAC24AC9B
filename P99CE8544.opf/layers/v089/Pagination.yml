@@ -3626,69 +3626,69 @@ annotations:
     reference: ''
     span:
       start: 698569
-      end: 699973
+      end: 699976
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   6b17bf07b1c746d0903bded494edf01d:
     imgnum: 545
     reference: ''
     span:
-      start: 699975
-      end: 701310
+      start: 699978
+      end: 701308
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   db522328ccca42eca87987ce5d18ecfb:
     imgnum: 546
     reference: ''
     span:
-      start: 701312
-      end: 702662
+      start: 701310
+      end: 702660
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   881574a7f9ee4d4390a0b4bc4aedabdb:
     imgnum: 547
     reference: ''
     span:
-      start: 702664
-      end: 704029
+      start: 702662
+      end: 704027
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   d178dd4eba094bbbb330c038e2e1a5d1:
     imgnum: 548
     reference: ''
     span:
-      start: 704031
-      end: 705384
+      start: 704029
+      end: 705383
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   c458ffa8d14b4473bcf258c6ce580bf0:
     imgnum: 549
     reference: ''
     span:
-      start: 705386
-      end: 706748
+      start: 705385
+      end: 706750
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   9008a0c316184676ba41af64f327b34d:
     imgnum: 550
     reference: ''
     span:
-      start: 706750
-      end: 708119
+      start: 706752
+      end: 708122
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   5ddc34c662c34df4bb59d28b0a11aa5c:
     imgnum: 551
     reference: ''
     span:
-      start: 708121
-      end: 709509
+      start: 708124
+      end: 709511
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   172d6200322348bdabdc8933235a36cf:
     imgnum: 552
     reference: ''
     span:
-      start: 709511
-      end: 710788
+      start: 709513
+      end: 710792
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   bd4d83f5a72c43b8baed3e91d21a82ac:
     imgnum: 553
     reference: ''
     span:
-      start: 710790
+      start: 710794
       end: 712173
     note_ref: cba7d3d9803240218f150bb0ddd2e682
   7d93b03c0a434017a4eceabb198d8cf8:
